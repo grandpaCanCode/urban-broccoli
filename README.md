@@ -1,5 +1,5 @@
 
+![list of chapters to complete React Foundations course](image-1.png)
 
-<span>learn <a href="https://nextjs.org/learn/react-foundations">
-react</a> fundementals</span> 
-![list of chapters to complete React Foundations course](image.png)
+<span> Build & Learn <a href="https://nextjs.org/learn/react-foundations">
+React</a> Fundementals</span> 
